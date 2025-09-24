@@ -1,0 +1,13 @@
+h1{
+    /*border-style: solid;
+    border-width: 4px;
+    border-color: hsla(208, 64%, 43%, 0.572);*/
+    border: 3px solid hsla(199, 59%, 45%, 0.745);
+    border-radius: 12px;
+}
+p{
+    border-bottom: 4px solid hsl(0, 75%, 25%);
+    border-top: 2px solid gold;
+    border-left: 6px dotted gray;
+    border-right: 3px dotted greenyellow;
+}

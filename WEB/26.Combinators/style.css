@@ -1,0 +1,15 @@
+#conteiner{
+    border: 2px solid;
+}
+/*#conteiner p{
+    background-color: gold;
+}*/
+/*#conteiner > p{
+    background-color: gold;
+}*/
+/*#conteiner ~ p{
+    background-color: gold;
+}*/
+#conteiner + p{
+    background-color: gold;
+}

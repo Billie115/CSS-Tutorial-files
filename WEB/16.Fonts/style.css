@@ -1,0 +1,18 @@
+@font-face {
+    font-family: Holidays Homework;
+    src: url(Fonts/Holidays\ Homework.ttf);
+}
+@font-face {
+    font-family: Exo2 Italic;
+    src: url(Fonts/Exo2-Italic-VariableFont_wght.ttf);
+}
+
+h1{
+    font-family: "Holidays Homework";
+}
+p{
+    font-family: "Exo2 Italic";
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: italic;
+}

@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(Images/ΞΑΝΘΗ_ΠΑΛΙΑ_ΠΟΛΗ.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+p{
+    border: 2px solid black;
+    background-color: hsl(0, 0%, 100%);
+}
+h1{
+    border: 2px solid black;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 12px;
+    display: inline;
+}
